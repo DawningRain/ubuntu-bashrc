@@ -119,7 +119,7 @@ fi
 alias ssh3="ssh arclab@10.214.9.53"
 alias ssh3r="ssh root@10.214.9.53"
 alias ssh5="ssh arclab@10.214.9.55"
-alias ssh5r="ssh root@10.214.9.53"
+alias ssh5r="ssh root@10.214.9.55"
 
 	
 HISTTIMEFORMAT='%F %T '
